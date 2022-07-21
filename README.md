@@ -1,1 +1,1 @@
-Travel Blog App made using Sanity.io and Next.js
+Travel Blog Site made using Sanity.io and Next.js
